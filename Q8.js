@@ -1,3 +1,4 @@
+"use strict";
 //Addition
 console.log(5 + 3);
 //Subtraction 

@@ -1,3 +1,4 @@
-var Name = "Asra";
-var message = "would you like to learn some typescript today?";
-console.log("Hello ".concat(Name, "! ").concat(message));
+"use strict";
+let Name = "Asra";
+let message = "would you like to learn some typescript today?";
+console.log(`Hello ${Name}! ${message}`);
